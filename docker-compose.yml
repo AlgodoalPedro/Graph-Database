@@ -1,0 +1,13 @@
+services:
+  neo4j:
+    image: 'neo4j:5.22.0-community-bullseye'
+    container_name: neo4j
+    ports:
+      - 7474:7474
+      - 7687:7687
+    volumes:
+      - ./data/neo4j:/data
+    networks:
+      - cc6240
+networks:
+  cc6240:
