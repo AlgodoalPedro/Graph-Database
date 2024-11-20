@@ -1,5 +1,7 @@
 Guilherme Couto Gomes RA:22.122.035-3
 
+Luiggi Paschoalini Garcia RA:22.122.006-4
+
 Pedro Henrique Algodoal Pinto RA:22.122.072-6
 
 Samir Oliveira da Costa RA:22.122.030-4
